@@ -1,4 +1,4 @@
 # newsCli
-view news from the terminal. Just build and run it. Top currently hardcoded for top us news. 
+view news from the terminal. Currently set for current top news stories in the United States. 
 
 ![screenshot](/img/screenshot.png)
